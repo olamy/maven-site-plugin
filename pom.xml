@@ -594,7 +594,6 @@ under the License.
               <projectsDirectory>src/it/projects</projectsDirectory>
               <settingsFile>src/it/mrm/settings.xml</settingsFile>
               <streamLogs>true</streamLogs>
-              <streamLogs></streamLogs>
               <filterProperties>
                 <mrm.repository.url>${mrm.repository.url}</mrm.repository.url>
               </filterProperties>
