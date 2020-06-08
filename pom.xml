@@ -529,7 +529,7 @@ under the License.
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-shade-plugin</artifactId>
-        <version>3.2.2</version><!-- TODO remove when upgrading parent to 35 -->
+        <version>3.2.4</version><!-- TODO remove when upgrading parent to 35 -->
         <executions>
           <execution>
             <phase>package</phase>
